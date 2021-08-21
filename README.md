@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @routsandeepkumar
-- 👀 I’m interested in Java and selenium coding
-- 🌱 I’m currently learning new automation tools 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
